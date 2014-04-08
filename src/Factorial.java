@@ -1,7 +1,7 @@
 
 public class Factorial {
 
-	public static int funFactorial(int sNo)
+	public static int changeFactorial(int sNo)
 	{
 		int sResult = 1;
 		int x = sNo;
